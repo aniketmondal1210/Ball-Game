@@ -29,10 +29,10 @@ A modern implementation of the classic Pong arcade game built with Pygame. This 
 git clone https://github.com/yourusername/enhanced-pong.git
 cd enhanced-pong
 
-2. Install the required dependencies:
+Install the required dependencies:
 pip install pygame
 
-3. Run the game:
+Run the game:
 python pong_game.py
 
 ### Controls

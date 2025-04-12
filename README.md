@@ -22,7 +22,7 @@
 - Clone this repository: git clone https://github.com/aniketmondal1210/enhanced-pong.git
 
 ## How to Play
-cd enhanced-pong
+- cd enhanced-pong
 
 - Install the required dependencies:
 pip install pygame

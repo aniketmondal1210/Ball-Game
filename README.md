@@ -28,7 +28,7 @@ cd enhanced-pong
 - Install the required dependencies:
 pip install pygame
 
--Run the game:
+- Run the game:
 python pong_game.py
 
 ### Controls

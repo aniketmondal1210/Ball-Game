@@ -1,9 +1,5 @@
 # Ball-Game
 
-# Enhanced Pong Game
-
-A modern implementation of the classic Pong arcade game built with Pygame. This version includes several enhancements over the traditional game, including visual effects, difficulty levels, and improved AI.
-
 ![Game Screenshot](screenshots/gameplay.png)
 
 ## Features

@@ -19,16 +19,16 @@
 - Pygame library
 
 ### Setup
-1. Clone this repository:
+Clone this repository:
 
 ## How to Play
-git clone https://github.com/yourusername/enhanced-pong.git
+- git clone https://github.com/yourusername/enhanced-pong.git
 cd enhanced-pong
 
-Install the required dependencies:
+- Install the required dependencies:
 pip install pygame
 
-Run the game:
+-Run the game:
 python pong_game.py
 
 ### Controls
